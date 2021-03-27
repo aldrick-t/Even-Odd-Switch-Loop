@@ -3,6 +3,7 @@
 //Created MAR-27-2021
 //Published MAR-27-2021
 //Publsished for limited community usage (PPU/V) on https://github.com/aldrick-t/Even-Odd-Switch-Loop
+//All Rights Reserved
 //MAR 2021
 
 int evenMode;
